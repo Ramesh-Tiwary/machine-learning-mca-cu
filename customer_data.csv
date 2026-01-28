@@ -1,0 +1,6 @@
+ID,Year_Birth,Education,Marital_Status,Income,Kidhome,Teenhome,Dt_Customer,Recency,MntWines,MntFruits,MntMeatProducts,MntFishProducts
+5524,1957,Graduation,Single,58138,0,0,04/09/2012,58,635,88,546,172
+2174,1954,Graduation,Single,46344,1,1,08/03/2014,38,11,1,6,2
+4141,1965,Graduation,Together,71613,0,0,21/08/2013,26,426,49,127,111
+6182,1984,Graduation,Together,26646,1,0,10/02/2014,26,11,4,20,10
+5324,1981,PhD,Married,58293,1,0,19/01/2014,94,173,43,118,46
